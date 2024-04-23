@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className='d-flex w-100 pt-4 bg-secondary text-wrap fs-5'>
+    <div className='flex w-100 pt-4 text-2xl bg-slate-600'>
         Footer
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, reiciendis.
         </div>
